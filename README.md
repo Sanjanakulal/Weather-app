@@ -1,6 +1,6 @@
-# React + Vite
+# Weather-app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working with Vite, featuring hot module replacement (HMR) and some ESLint rules.
 
 Currently, two official plugins are available:
 
